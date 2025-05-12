@@ -4,7 +4,8 @@ A sleek, real-time weather dashboard built using **HTML**, **CSS**, **JavaScript
 with live weather data powered by the **OpenWeatherMap API**. 
 Styled with a modern **glassmorphism** (frosted glass) user interface.
 
-![Weather App Screenshot](./assets/weather-demo-screenshot.png)
+ 
+[▶️ Click here to download or view demo video](https://github.com/Dhana3638/Weather_Dashboard_using_OpenWeather_API/blob/5890ac49db88ff41b8a18302e141e2caccbda56c/img/demo.mp4)
 
 ---
 
