@@ -25,6 +25,7 @@ Styled with a modern **glassmorphism** (frosted glass) user interface.
 - **JavaScript (ES6)** with `async/await`
 - **Axios** for HTTP requests
 - **OpenWeatherMap API**
+- MADE BY SUMIT
  
 
  
